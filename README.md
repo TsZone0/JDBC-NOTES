@@ -66,6 +66,17 @@ JDBC drivers fall into four categories:
 
 5. **Process Results:** Handle the query results using `ResultSet`.
 
+## JDBC Components
+
+In addition to the JDBC drivers, there are several other components that make up the JDBC API, including:
+
+	** DriverManager Class **
+	* Connection interface
+	* Statement and PreparedStatement interfaces
+	* ResultSet interface
+
+These components work together to provide a powerful and flexible API for working with databases in Java.
+
 ## SQL Queries
 
 SQL (Structured Query Language) is used to interact with databases. Common SQL queries include:
